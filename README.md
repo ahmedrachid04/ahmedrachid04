@@ -1,16 +1,16 @@
 ### **Hi there, I'm Ahmed RACHID. 👋**
 
 #### **🌟 About Me**
--🎓 Computer Science Student at ENSAO, specializing in Web Development.
--👨‍💻 Developer with a passion for building interactive and user-friendly web applications.
--🎨 UI/UX enthusiast, frequently collaborating on design projects to enhance digital experiences.
--🌐 Fluent in French, English, and Arabic.
-  
+- 🎓 Computer Science Student at ENSAO, specializing.
+- 👨‍💻 Developer with a passion for building interactive and user-friendly web applications.
+- 🎨 UI/UX enthusiast, frequently collaborating on design projects to enhance digital experiences.
+- 🌐 Fluent in **French**, **English**, and **Arabic**.
+
 #### **💡 What I’m Currently Working On**
--🌱 Expanding my expertise in React and .Net technologies.
--🛠 Developing projects that integrate frontend and backend solutions.
--🎥 Building a film management web project with Symfony.
--📱 Developing an internship management Android app.
+- 🌱 Expanding my expertise in React and .Net technologies.
+- 🛠 Developing projects that integrate frontend and backend solutions.
+- 🎥 Building a film management web project with Symfony.
+- 📱 Developing an internship management Android app.
 
 #### **🚀 Skills and Tools**
 - **Languages:** 
