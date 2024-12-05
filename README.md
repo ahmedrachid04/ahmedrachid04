@@ -35,9 +35,9 @@
   - Notion
 
 #### **🌍 My Interests**
--🚶‍♂️ Staying active through walking and running.
--📖 Writing and editing.
--🎬 Exploring and producing creative works.
+- 🚶‍♂️ Staying active through walking and running.
+- 📖 Writing and editing.
+- 🎬 Exploring and producing creative works.
 
 #### **📫 How to Reach Me**
 - **Email:** [ahmedrachid0409@gmail.com](mailto:ahmedrachid0409@gmail.com)
