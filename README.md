@@ -44,7 +44,7 @@
 - **LinkedIn:** [Ahmed Rachid](https://www.linkedin.com/in/ahmed-rachid-aa0781306/)
 
 #### **✨ Fun Facts**
--🎨 I love designing—whether it’s for a sleek interface I plan to develop or for creative visuals.
--🧠 I’m constantly learning and enjoy collaborating with others to bring ideas to life.
--🌟 Beyond coding and designing, I use my editing skills to craft cool edits of my favorite films, shows, and games, or to contribute to projects within my school community.
--🏢 I had the privilege of interning at Orange Business, where I gained valuable experience in real-world development and problem-solving.
+- 🎨 I love designing—whether it’s for a sleek interface I plan to develop or for creative visuals.
+- 🧠 I’m constantly learning and enjoy collaborating with others to bring ideas to life.
+- 🌟 Beyond coding and designing, I use my editing skills to craft cool edits of my favorite films, shows, and games, or to contribute to projects within my school community.
+- 🏢 I had the privilege of interning at **Orange Business**, where I gained valuable experience in real-world development and problem-solving.
